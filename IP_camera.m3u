@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:123, IP Camera - Gemzse
+rtsp://zoli.duckdns.org/onvif1
