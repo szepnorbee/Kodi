@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:123, IP Camera - Gemzse
+#EXTINF:123, IP Camera 1 HIQ - Gemzse
 rtsp://zoli.duckdns.org/onvif1
+
+#EXTINF:123, IP Camera 2 HIQ - Gemzse
+rtsp://zoli.duckdns.org:55400/onvif1
+
+#EXTINF:123, IP Camera 2 LOQ - Gemzse
+rtsp://zoli.duckdns.org:55400/onvif2
